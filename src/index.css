@@ -17,7 +17,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: url('../src/assets/3.png') no-repeat;
   background-size: cover;
-  font-size: medium;
 }
 
 code {
@@ -27,3 +26,5 @@ code {
 html {
   font-size: calc(60% + 0.8vmin) !important;
 }
+
+
